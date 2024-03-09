@@ -2935,7 +2935,7 @@ PRODUCT_PACKAGES += \
     CneApp \
     daxService \
     MotoSignatureApp \
-    MotoDolbyDax3 \
+    MotoDolbyV3 \
     com.motorola.frameworks.core.addon \
     com.motorola.motosignature \
     moto-checkin \

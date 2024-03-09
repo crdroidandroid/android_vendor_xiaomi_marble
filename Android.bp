@@ -79,9 +79,9 @@ android_app_import {
 }
 
 android_app_import {
-	name: "MotoDolbyDax3",
+	name: "MotoDolbyV3",
 	owner: "xiaomi",
-	apk: "proprietary/system_ext/priv-app/MotoDolbyDax3/MotoDolbyDax3.apk",
+	apk: "proprietary/system_ext/priv-app/MotoDolbyDax3/MotoDolbyV3.apk",
 	overrides: ["MusicFX"],
 	certificate: "platform",
 	dex_preopt: {
